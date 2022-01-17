@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+}
+
+h1{
+    color:rgb(0, 26, 255);
+    background-color: rgba(142, 233, 225, 0.753);
+    height: 50px;
+    width: 25%;
+    font-size: 40px;
+    font-weight:600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    line-height: 50px;
+    border: 2px dashed red;
+    margin: 100px auto;
+
+}
+span{
+    color:rgb(255, 0, 0);
+}
+.box{
+    height: 200px;
+    width: 28%;
+    background-color: fuchsia;
+    /* margin: 20px;//top-right-bottom-left */
+    /* margin: 10px 20px; //top-bottom right-left */
+    /* margin: 10px 20px 30px; //top right-left bottom */
+    /* margin: 10px 20px 30px 40px; //top right bottom left  */
+    margin-left: 50px;
+    float: left;
+   
+}
+.box h2{
+    text-align: center;
+    line-height: 200px;
+}
